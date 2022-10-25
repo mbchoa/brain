@@ -1,0 +1,191 @@
+{
+  "main": {
+    "id": "d16273d0f3676141",
+    "type": "split",
+    "children": [
+      {
+        "id": "d12d88505055b45b",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "e1a8e9511ee7a3e9",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "README.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "17010919e62cdfa4",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "A - Writing/Draft - Build a scraper CRON service.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "901632fee2d7f0c8",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "A - Writing/Draft - Create an authentication service.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "c6c24d647f4a5896",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "A - Writing/Draft - Next day, next week planner.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "0735175b986b3600",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {}
+            }
+          }
+        ],
+        "currentTab": 4
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "000978c196620a08",
+    "type": "split",
+    "children": [
+      {
+        "id": "4b0c3501b0c1d9b1",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "85574881e2dc9561",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "52e5ab539101f310",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "29acf417d30a98a6",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "27bcf02a192839a9",
+    "type": "split",
+    "children": [
+      {
+        "id": "a8f97e180486bb3b",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "111ca0497a25da01",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "02638507d5537f33",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "73b21c5a2d5e4380",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "a192d0c587f7fabd",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "ribbon": {
+    "mostRecentAction": ""
+  },
+  "active": "0735175b986b3600",
+  "lastOpenFiles": [
+    "A - Writing/Draft - Next day, next week planner.md",
+    "A - Writing/Draft - Create polyfill for negative array index access.md",
+    "A - Writing/Draft - Create an authentication service.md",
+    "A - Writing/Draft - Build a scraper CRON service.md",
+    "README.md"
+  ]
+}
