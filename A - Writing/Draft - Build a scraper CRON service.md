@@ -1,0 +1,10 @@
+-   Puppeteer
+    -   Reference: [](https://www.youtube.com/watch?v=lgyszZhAZOI)[https://www.youtube.com/watch?v=lgyszZhAZOI](https://www.youtube.com/watch?v=lgyszZhAZOI)
+-   Node
+-   Cronjob
+-   Postgres DB
+-   TypeScript
+-   Railway
+-   How do we do cronjobs in Railway?
+-   Can we include this as part of a monorepo?
+-   Ideas for blog post format, recreate video above using Playwright library in place of Puppeteer

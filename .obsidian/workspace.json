@@ -59,8 +59,12 @@
             "id": "0735175b986b3600",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "A - Writing/Draft - Build a scraper CRON service.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ],
@@ -130,6 +134,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "A - Writing/Draft - Build a scraper CRON service.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -146,6 +151,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "A - Writing/Draft - Build a scraper CRON service.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -167,7 +173,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "A - Writing/Draft - Build a scraper CRON service.md"
+              }
             }
           }
         ]
