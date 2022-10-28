@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "83228303aa98d580",
+        "id": "ed79fcf388e06d74",
         "type": "tabs",
         "children": [
           {
-            "id": "10699026b2f07579",
+            "id": "85eb423d6f44932c",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "A - Career/Career.md",
+                "file": "README.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "A - Career/Career.md",
+                "file": "README.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "A - Career/Career.md",
+                "file": "README.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "A - Career/Career.md"
+                "file": "README.md"
               }
             }
           }
@@ -139,15 +139,17 @@
   "ribbon": {
     "mostRecentAction": ""
   },
-  "active": "10699026b2f07579",
+  "active": "85eb423d6f44932c",
   "lastOpenFiles": [
-    "A - Health/Posture.md",
-    "A - Health/Strength Training.md",
-    "A - Writing/Draft - Next day, next week planner.md",
-    "A - Writing/Draft - Create an authentication service.md",
-    "A - Writing/Draft - Build a scraper CRON service.md",
-    "A - Health/Products.md",
-    "README.md",
-    "A - Writing/Draft - Create polyfill for negative array index access.md"
+    "A - Career/Career.md",
+    "A - Office Setup/Links.md",
+    "A - Parenting/Tips.md",
+    "R - Developer Tools/Tools.md",
+    "R - Food/Recommendations.md",
+    "R - Hip Hop/50 Greatest MCs of all time.md",
+    "R - House Buying/Notes.md",
+    "R - Interviewing/Behaviorial Questions.md",
+    "R - Interviewing/FAANG Study Guide.md",
+    "R - Investing/Notes.md"
   ]
 }

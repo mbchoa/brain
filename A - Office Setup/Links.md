@@ -1,0 +1,1 @@
+[](https://www.indiehackers.com/post/the-optimal-desk-setup-how-to-create-a-minimalist-desk-and-other-office-setups-1d10c8d13e)[https://www.indiehackers.com/post/the-optimal-desk-setup-how-to-create-a-minimalist-desk-and-other-office-setups-1d10c8d13e](https://www.indiehackers.com/post/the-optimal-desk-setup-how-to-create-a-minimalist-desk-and-other-office-setups-1d10c8d13e)

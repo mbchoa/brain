@@ -1,0 +1,5 @@
+-   Excalidraw: simply diagramming tool, good for digital whiteboarding and mocking up stuff fast
+-   [railway.app](https://railway.app): Heroku successor, really easy to stand up services
+-   zsh
+    -   by default, zsh uses [] brackets for globbing and pattern matching ([reference](https://zsh.sourceforge.io/Guide/zshguide05.html#l137))
+    -   if you want to install pip packages with brackets, you’ll need to
