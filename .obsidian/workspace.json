@@ -4,107 +4,22 @@
     "type": "split",
     "children": [
       {
-        "id": "d12d88505055b45b",
+        "id": "83228303aa98d580",
         "type": "tabs",
         "children": [
           {
-            "id": "e1a8e9511ee7a3e9",
+            "id": "10699026b2f07579",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "A - Health/Strength Training.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "faf062d527d8fa13",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "A - Health/Posture.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "17010919e62cdfa4",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "A - Writing/Draft - Build a scraper CRON service.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "901632fee2d7f0c8",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "A - Writing/Draft - Create an authentication service.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "c6c24d647f4a5896",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "A - Writing/Draft - Next day, next week planner.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "0735175b986b3600",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "A - Writing/Draft - Next day, next week planner.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "3983370a500157c4",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "A - Health/Strength Training.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "41d45ba9fb835891",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "A - Health/Posture.md",
+                "file": "A - Career/Career.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -170,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "A - Health/Posture.md",
+                "file": "A - Career/Career.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -187,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "A - Health/Posture.md",
+                "file": "A - Career/Career.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -210,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "A - Health/Posture.md"
+                "file": "A - Career/Career.md"
               }
             }
           }
@@ -224,15 +139,15 @@
   "ribbon": {
     "mostRecentAction": ""
   },
-  "active": "faf062d527d8fa13",
+  "active": "10699026b2f07579",
   "lastOpenFiles": [
-    "A - Health/Products.md",
     "A - Health/Posture.md",
     "A - Health/Strength Training.md",
-    "README.md",
     "A - Writing/Draft - Next day, next week planner.md",
     "A - Writing/Draft - Create an authentication service.md",
-    "A - Writing/Draft - Create polyfill for negative array index access.md",
-    "A - Writing/Draft - Build a scraper CRON service.md"
+    "A - Writing/Draft - Build a scraper CRON service.md",
+    "A - Health/Products.md",
+    "README.md",
+    "A - Writing/Draft - Create polyfill for negative array index access.md"
   ]
 }
